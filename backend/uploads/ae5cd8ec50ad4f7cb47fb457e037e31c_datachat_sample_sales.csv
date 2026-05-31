@@ -1,0 +1,13 @@
+order_id,product,category,region,quantity,unit_price,order_date,revenue
+1,Laptop,Electronics,North,2,65000,2026-01-10,130000
+2,Mouse,Electronics,West,10,800,2026-01-12,8000
+3,Keyboard,Electronics,South,5,1800,2026-01-15,9000
+4,Laptop,Electronics,East,1,65000,2026-02-01,65000
+5,Monitor,Electronics,North,3,12000,2026-02-05,36000
+6,Chair,Furniture,West,4,7000,2026-02-10,28000
+7,Desk,Furniture,South,2,15000,2026-02-15,30000
+8,Laptop,Electronics,North,3,65000,2026-03-01,195000
+9,Monitor,Electronics,East,2,12000,2026-03-05,24000
+10,Chair,Furniture,North,6,7000,2026-03-10,42000
+11,Mouse,Electronics,South,20,800,2026-03-15,16000
+12,Desk,Furniture,West,1,15000,2026-03-20,15000
