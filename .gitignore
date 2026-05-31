@@ -1,0 +1,58 @@
+# OS files
+.DS_Store
+Thumbs.db
+/-w
+
+# Secrets / local env
+.env
+.env.*
+!.env.example
+backend/.env
+my-app/.env
+my-app/.env.*
+!my-app/.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+backend/venv/
+backend/.venv/
+venv/
+
+# SQLite / local databases
+*.db
+*.sqlite
+*.sqlite3
+backend/datachat.db
+
+# Backend uploads and runtime data
+backend/uploads/
+
+# Node / Next.js
+node_modules/
+my-app/node_modules/
+.next/
+my-app/.next/
+out/
+my-app/out/
+build/
+my-app/build/
+*.tsbuildinfo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
